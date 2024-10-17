@@ -10,4 +10,4 @@ Feature: calculator
     And I click "Add" button
     And I click 7 button
     And I click "Equals" button
-    Then I should see results shown as 10
+    Then I should see results shown as "10"
