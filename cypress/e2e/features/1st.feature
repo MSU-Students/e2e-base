@@ -3,6 +3,7 @@ Feature: calculator
     When I visit the app
     And I click basic calculator
     Then I should see the basic calculator
+    
   Scenario: Adding two numbers
     When I visit the app
     And I click basic calculator
